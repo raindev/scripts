@@ -1,0 +1,5 @@
+#!/bin/bash
+set -euo pipefail
+
+sed -i 's/background=light/background=dark/' ~/.config/nvim/init.vim
+sed -i 's/colors: \*light/colors: \*dark/' ~/.alacritty.yml
