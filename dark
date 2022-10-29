@@ -2,4 +2,3 @@
 set -euo pipefail
 
 sed -i --follow-symlinks "s/background = 'light'/background = 'dark'/" ~/.config/nvim/lua/raindev/opts.lua
-sed -i --follow-symlinks 's/colors: \*light/colors: \*dark/' ~/.alacritty.yml
