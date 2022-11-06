@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 set -euo pipefail
 
 sed -i --follow-symlinks "s/background = 'light'/background = 'dark'/" ~/.config/nvim/lua/raindev/opts.lua

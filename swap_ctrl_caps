@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 # Toggles swapping of Ctrl and Caps Lock.
 # Warning: the script clears any additional keyboard layout options set.
