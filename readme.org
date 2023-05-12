@@ -1,1 +1,3 @@
+Archived: see https://github.com/raindev/dotfiles/
+
 The scripts I keep handy in my =PATH=.  Intended to simplify common and not so common tasks.
